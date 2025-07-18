@@ -234,7 +234,6 @@ footer {
   line-height: 1.5;
 }
 
-/* Optional: Add a hover effect to job cards */
 .job:hover {
   background: #fdf6e3;
   transition: background 0.2s;
